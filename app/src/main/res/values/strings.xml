@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="popular_products">Popular Foods</string>
+    <string name="choose_food">Choose Food</string>
+</resources>
